@@ -1,8 +1,19 @@
+#1
+name = "Bob"             #String
+age = 10                 #Integer
+weight = 20.5            #Float
+is_female = False        #Boolean
+random_number = None     #Nontype
+
 go backward of directory of the folder is "cd.."
 go foward of directory of the folder is "cd 'the name'"
 
 
-Update git file 
+#2
+
+
+
+Update git repo
 git add .
-git commit -m "your_comment"
-git push
+git commit -m "your_comment" (your-comment is just a note , i can change )
+git push 
