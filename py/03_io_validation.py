@@ -19,3 +19,9 @@ while True:
 print(f"Hello, {name}!")
 print(f"Your are {age} years old and {height} feet tall.")
 
+#Exercise
+num_1 = float(input("Enter a number: "))
+num_2 = float(input("Enter a number: "))
+
+ans = num_1 + num_2
+ print(ans)
