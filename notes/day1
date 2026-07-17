@@ -15,5 +15,10 @@ go foward of directory of the folder is "cd 'the name'"
 
 Update git repo
 git add .
-git commit -m "your_comment" (your-comment is just a note , i can change )
+git commit -m"your_comment" (your-comment is just a note , i can change )
 git push
+
+
+Uvicorn 19_fast_mongo:app  reload
+
+http://127.0.0.1:8000/docs#/
